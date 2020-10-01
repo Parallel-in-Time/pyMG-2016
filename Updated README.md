@@ -1,11 +1,11 @@
-# pyMG
+# pyMG 
 
 This Python code is a more or less structured framework for linear multigrid solvers. It contains the sources, 
 the exercises and the slides for the lecture "Einführung in Mehrgitter-Methoden" at FH Aachen, spring semester 2016. 
 More details can be found in the slides and the documentation.
 
 
-## Structure
+## Structure of the project
 
     .
     |\
@@ -34,7 +34,7 @@ We use [nose][] for our tests.
 Simply follow the general guides on Python `unittest` and *nosetest*.
 
 
-### Update and Build Documentation
+### Update and Build Documentation of the code 
 
 We use [Sphinx][sphinx] with it's bundled [autosummary][] and [autodoc][] extensions as the
 documentation processor.
